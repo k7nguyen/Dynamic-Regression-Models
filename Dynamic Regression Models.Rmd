@@ -18,7 +18,7 @@ library(fpp2)
 
 rm(list = ls())  # Clear the working space
 
-setwd("/Users/juliek/Desktop/Time Series Analysis (ECON 174)")
+setwd("/Users/karynnguyenMBP/Desktop/Econ 174")
 getwd()
 
 ```
